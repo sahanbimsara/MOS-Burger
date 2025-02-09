@@ -1,0 +1,25 @@
+#tittle{
+    text-align: center;
+    color: red;
+}
+.body{
+    background-color: black;
+    /* background-image: url(/img/background1.jpg); */
+    background-size: cover;
+    
+}
+#btnOrder{
+    margin-left: 700px;
+}
+#Store{
+   margin-top: 80px;    
+}
+#Store2{
+    margin-left: 100px;
+}
+#CusH4Color{
+    color: aliceblue;
+}
+.col-md-7.col-lg-8{
+    color: white;
+}
